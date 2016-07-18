@@ -59,8 +59,8 @@ RSpec.configure do |config|
 	}
 end
 
-$baseurl = 'http://mipmip.github.io/jenkins-testlink-rspec-watir-example'
-$waitfortext = 'We will automatically test this page with Watir.'
+$baseurl = 'http://www.google.com'
+#$waitfortext = 'We will automatically test this page with Watir.'
 
 describe "jenkins-testlink-rspec-watir-example" do
   describe "mipmip-0001" do

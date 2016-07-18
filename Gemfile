@@ -10,5 +10,5 @@ gem 'headless'
 #TODO these should be installed automaticly
 gem 'builder'
 gem 'rspec'
-
+gem 'json'
 

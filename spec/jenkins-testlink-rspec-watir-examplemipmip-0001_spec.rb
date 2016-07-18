@@ -67,7 +67,7 @@ describe "jenkins-testlink-rspec-watir-example" do
     
       context "The website should load without problems | req-0001" do
         
-        it "should not show 404 text | tc-0001-01" do
+        it "should not show 404 text | TC0001" do
 			expect(@browser.text).not_to include('404')
         end
         

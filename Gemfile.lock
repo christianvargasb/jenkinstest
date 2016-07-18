@@ -36,8 +36,8 @@ GEM
     watir (5.0.0)
       commonwatir (~> 4)
       watir-webdriver
-    watir-webdriver (0.6.11)
-      selenium-webdriver (>= 2.18.0)
+    watir-webdriver (0.9.1)
+      selenium-webdriver (>= 2.53.0)
     websocket (1.2.1)
     xml-simple (1.1.4)
 
